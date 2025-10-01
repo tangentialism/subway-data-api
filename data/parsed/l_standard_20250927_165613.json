@@ -1,0 +1,4149 @@
+{
+  "header": {
+    "gtfs_realtime_version": "1.0",
+    "timestamp": 1758992167,
+    "incrementality": 0
+  },
+  "entities": [
+    {
+      "id": "1",
+      "trip_update": {
+        "trip_id": "074200_L..N",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 21,
+            "stop_id": "L03N",
+            "arrival_time": 1758992189,
+            "departure_time": 1758992204
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L02N",
+            "arrival_time": 1758992279,
+            "departure_time": 1758992294
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L01N",
+            "arrival_time": 1758992429,
+            "departure_time": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "vehicle": {
+        "trip_id": "074200_L..N",
+        "route_id": "L",
+        "position": {
+          "latitude": null,
+          "longitude": null
+        },
+        "current_stop_sequence": 21,
+        "current_status": 1,
+        "timestamp": 1758992157,
+        "stop_id": "L03N"
+      }
+    },
+    {
+      "id": "3",
+      "trip_update": {
+        "trip_id": "074550_L..S",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 19,
+            "stop_id": "L25S",
+            "arrival_time": 1758992214,
+            "departure_time": 1758992229
+          },
+          {
+            "stop_sequence": 20,
+            "stop_id": "L26S",
+            "arrival_time": 1758992274,
+            "departure_time": 1758992289
+          },
+          {
+            "stop_sequence": 21,
+            "stop_id": "L27S",
+            "arrival_time": 1758992364,
+            "departure_time": 1758992379
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L28S",
+            "arrival_time": 1758992484,
+            "departure_time": 1758992499
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L29S",
+            "arrival_time": 1758992544,
+            "departure_time": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "vehicle": {
+        "trip_id": "074550_L..S",
+        "route_id": "L",
+        "position": {
+          "latitude": null,
+          "longitude": null
+        },
+        "current_stop_sequence": 19,
+        "current_status": 2,
+        "timestamp": 1758992149,
+        "stop_id": "L25S"
+      }
+    },
+    {
+      "id": "5",
+      "trip_update": {
+        "trip_id": "074650_L..N",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 19,
+            "stop_id": "L06N",
+            "arrival_time": 1758992223,
+            "departure_time": 1758992238
+          },
+          {
+            "stop_sequence": 20,
+            "stop_id": "L05N",
+            "arrival_time": 1758992283,
+            "departure_time": 1758992298
+          },
+          {
+            "stop_sequence": 21,
+            "stop_id": "L03N",
+            "arrival_time": 1758992373,
+            "departure_time": 1758992388
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L02N",
+            "arrival_time": 1758992463,
+            "departure_time": 1758992478
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L01N",
+            "arrival_time": 1758992613,
+            "departure_time": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "vehicle": {
+        "trip_id": "074650_L..N",
+        "route_id": "L",
+        "position": {
+          "latitude": null,
+          "longitude": null
+        },
+        "current_stop_sequence": 19,
+        "current_status": 2,
+        "timestamp": 1758992157,
+        "stop_id": "L06N"
+      }
+    },
+    {
+      "id": "7",
+      "trip_update": {
+        "trip_id": "074900_L..N",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 18,
+            "stop_id": "L08N",
+            "arrival_time": 1758992191,
+            "departure_time": 1758992206
+          },
+          {
+            "stop_sequence": 19,
+            "stop_id": "L06N",
+            "arrival_time": 1758992431,
+            "departure_time": 1758992446
+          },
+          {
+            "stop_sequence": 20,
+            "stop_id": "L05N",
+            "arrival_time": 1758992491,
+            "departure_time": 1758992506
+          },
+          {
+            "stop_sequence": 21,
+            "stop_id": "L03N",
+            "arrival_time": 1758992581,
+            "departure_time": 1758992596
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L02N",
+            "arrival_time": 1758992671,
+            "departure_time": 1758992686
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L01N",
+            "arrival_time": 1758992821,
+            "departure_time": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "vehicle": {
+        "trip_id": "074900_L..N",
+        "route_id": "L",
+        "position": {
+          "latitude": null,
+          "longitude": null
+        },
+        "current_stop_sequence": 18,
+        "current_status": 2,
+        "timestamp": 1758992149,
+        "stop_id": "L08N"
+      }
+    },
+    {
+      "id": "9",
+      "trip_update": {
+        "trip_id": "075000_L..S",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 16,
+            "stop_id": "L21S",
+            "arrival_time": 1758992210,
+            "departure_time": 1758992225
+          },
+          {
+            "stop_sequence": 17,
+            "stop_id": "L22S",
+            "arrival_time": 1758992233,
+            "departure_time": 1758992248
+          },
+          {
+            "stop_sequence": 18,
+            "stop_id": "L24S",
+            "arrival_time": 1758992323,
+            "departure_time": 1758992338
+          },
+          {
+            "stop_sequence": 19,
+            "stop_id": "L25S",
+            "arrival_time": 1758992413,
+            "departure_time": 1758992428
+          },
+          {
+            "stop_sequence": 20,
+            "stop_id": "L26S",
+            "arrival_time": 1758992473,
+            "departure_time": 1758992488
+          },
+          {
+            "stop_sequence": 21,
+            "stop_id": "L27S",
+            "arrival_time": 1758992563,
+            "departure_time": 1758992578
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L28S",
+            "arrival_time": 1758992683,
+            "departure_time": 1758992698
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L29S",
+            "arrival_time": 1758992743,
+            "departure_time": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "vehicle": {
+        "trip_id": "075000_L..S",
+        "route_id": "L",
+        "position": {
+          "latitude": null,
+          "longitude": null
+        },
+        "current_stop_sequence": 16,
+        "current_status": 1,
+        "timestamp": 1758992157,
+        "stop_id": "L21S"
+      }
+    },
+    {
+      "id": "11",
+      "trip_update": {
+        "trip_id": "075300_L..N",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 14,
+            "stop_id": "L13N",
+            "arrival_time": 1758992160,
+            "departure_time": 1758992175
+          },
+          {
+            "stop_sequence": 15,
+            "stop_id": "L12N",
+            "arrival_time": 1758992218,
+            "departure_time": 1758992233
+          },
+          {
+            "stop_sequence": 16,
+            "stop_id": "L11N",
+            "arrival_time": 1758992308,
+            "departure_time": 1758992323
+          },
+          {
+            "stop_sequence": 17,
+            "stop_id": "L10N",
+            "arrival_time": 1758992368,
+            "departure_time": 1758992383
+          },
+          {
+            "stop_sequence": 18,
+            "stop_id": "L08N",
+            "arrival_time": 1758992458,
+            "departure_time": 1758992473
+          },
+          {
+            "stop_sequence": 19,
+            "stop_id": "L06N",
+            "arrival_time": 1758992698,
+            "departure_time": 1758992713
+          },
+          {
+            "stop_sequence": 20,
+            "stop_id": "L05N",
+            "arrival_time": 1758992758,
+            "departure_time": 1758992773
+          },
+          {
+            "stop_sequence": 21,
+            "stop_id": "L03N",
+            "arrival_time": 1758992848,
+            "departure_time": 1758992863
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L02N",
+            "arrival_time": 1758992938,
+            "departure_time": 1758992953
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L01N",
+            "arrival_time": 1758993088,
+            "departure_time": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "vehicle": {
+        "trip_id": "075300_L..N",
+        "route_id": "L",
+        "position": {
+          "latitude": null,
+          "longitude": null
+        },
+        "current_stop_sequence": 14,
+        "current_status": 1,
+        "timestamp": 1758992127,
+        "stop_id": "L13N"
+      }
+    },
+    {
+      "id": "13",
+      "trip_update": {
+        "trip_id": "075400_L..S",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 15,
+            "stop_id": "L20S",
+            "arrival_time": 1758992201,
+            "departure_time": 1758992216
+          },
+          {
+            "stop_sequence": 16,
+            "stop_id": "L21S",
+            "arrival_time": 1758992287,
+            "departure_time": 1758992302
+          },
+          {
+            "stop_sequence": 17,
+            "stop_id": "L22S",
+            "arrival_time": 1758992347,
+            "departure_time": 1758992362
+          },
+          {
+            "stop_sequence": 18,
+            "stop_id": "L24S",
+            "arrival_time": 1758992437,
+            "departure_time": 1758992452
+          },
+          {
+            "stop_sequence": 19,
+            "stop_id": "L25S",
+            "arrival_time": 1758992527,
+            "departure_time": 1758992542
+          },
+          {
+            "stop_sequence": 20,
+            "stop_id": "L26S",
+            "arrival_time": 1758992587,
+            "departure_time": 1758992602
+          },
+          {
+            "stop_sequence": 21,
+            "stop_id": "L27S",
+            "arrival_time": 1758992677,
+            "departure_time": 1758992692
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L28S",
+            "arrival_time": 1758992797,
+            "departure_time": 1758992812
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L29S",
+            "arrival_time": 1758992857,
+            "departure_time": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "14",
+      "vehicle": {
+        "trip_id": "075400_L..S",
+        "route_id": "L",
+        "position": {
+          "latitude": null,
+          "longitude": null
+        },
+        "current_stop_sequence": 15,
+        "current_status": 1,
+        "timestamp": 1758992157,
+        "stop_id": "L20S"
+      }
+    },
+    {
+      "id": "15",
+      "trip_update": {
+        "trip_id": "075700_L..N",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 13,
+            "stop_id": "L14N",
+            "arrival_time": 1758992243,
+            "departure_time": 1758992258
+          },
+          {
+            "stop_sequence": 14,
+            "stop_id": "L13N",
+            "arrival_time": 1758992363,
+            "departure_time": 1758992378
+          },
+          {
+            "stop_sequence": 15,
+            "stop_id": "L12N",
+            "arrival_time": 1758992423,
+            "departure_time": 1758992438
+          },
+          {
+            "stop_sequence": 16,
+            "stop_id": "L11N",
+            "arrival_time": 1758992513,
+            "departure_time": 1758992528
+          },
+          {
+            "stop_sequence": 17,
+            "stop_id": "L10N",
+            "arrival_time": 1758992573,
+            "departure_time": 1758992588
+          },
+          {
+            "stop_sequence": 18,
+            "stop_id": "L08N",
+            "arrival_time": 1758992663,
+            "departure_time": 1758992678
+          },
+          {
+            "stop_sequence": 19,
+            "stop_id": "L06N",
+            "arrival_time": 1758992903,
+            "departure_time": 1758992918
+          },
+          {
+            "stop_sequence": 20,
+            "stop_id": "L05N",
+            "arrival_time": 1758992963,
+            "departure_time": 1758992978
+          },
+          {
+            "stop_sequence": 21,
+            "stop_id": "L03N",
+            "arrival_time": 1758993053,
+            "departure_time": 1758993068
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L02N",
+            "arrival_time": 1758993143,
+            "departure_time": 1758993158
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L01N",
+            "arrival_time": 1758993293,
+            "departure_time": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "16",
+      "vehicle": {
+        "trip_id": "075700_L..N",
+        "route_id": "L",
+        "position": {
+          "latitude": null,
+          "longitude": null
+        },
+        "current_stop_sequence": 13,
+        "current_status": 2,
+        "timestamp": 1758992149,
+        "stop_id": "L14N"
+      }
+    },
+    {
+      "id": "17",
+      "trip_update": {
+        "trip_id": "075800_L..S",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 11,
+            "stop_id": "L15S",
+            "arrival_time": 1758992187,
+            "departure_time": 1758992202
+          },
+          {
+            "stop_sequence": 12,
+            "stop_id": "L16S",
+            "arrival_time": 1758992249,
+            "departure_time": 1758992264
+          },
+          {
+            "stop_sequence": 13,
+            "stop_id": "L17S",
+            "arrival_time": 1758992339,
+            "departure_time": 1758992354
+          },
+          {
+            "stop_sequence": 14,
+            "stop_id": "L19S",
+            "arrival_time": 1758992429,
+            "departure_time": 1758992444
+          },
+          {
+            "stop_sequence": 15,
+            "stop_id": "L20S",
+            "arrival_time": 1758992579,
+            "departure_time": 1758992594
+          },
+          {
+            "stop_sequence": 16,
+            "stop_id": "L21S",
+            "arrival_time": 1758992669,
+            "departure_time": 1758992684
+          },
+          {
+            "stop_sequence": 17,
+            "stop_id": "L22S",
+            "arrival_time": 1758992729,
+            "departure_time": 1758992744
+          },
+          {
+            "stop_sequence": 18,
+            "stop_id": "L24S",
+            "arrival_time": 1758992819,
+            "departure_time": 1758992834
+          },
+          {
+            "stop_sequence": 19,
+            "stop_id": "L25S",
+            "arrival_time": 1758992909,
+            "departure_time": 1758992924
+          },
+          {
+            "stop_sequence": 20,
+            "stop_id": "L26S",
+            "arrival_time": 1758992969,
+            "departure_time": 1758992984
+          },
+          {
+            "stop_sequence": 21,
+            "stop_id": "L27S",
+            "arrival_time": 1758993059,
+            "departure_time": 1758993074
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L28S",
+            "arrival_time": 1758993179,
+            "departure_time": 1758993194
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L29S",
+            "arrival_time": 1758993239,
+            "departure_time": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "18",
+      "vehicle": {
+        "trip_id": "075800_L..S",
+        "route_id": "L",
+        "position": {
+          "latitude": null,
+          "longitude": null
+        },
+        "current_stop_sequence": 11,
+        "current_status": 1,
+        "timestamp": 1758992157,
+        "stop_id": "L15S"
+      }
+    },
+    {
+      "id": "19",
+      "trip_update": {
+        "trip_id": "076100_L..N",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 9,
+            "stop_id": "L19N",
+            "arrival_time": 1758992210,
+            "departure_time": 1758992225
+          },
+          {
+            "stop_sequence": 10,
+            "stop_id": "L17N",
+            "arrival_time": 1758992298,
+            "departure_time": 1758992313
+          },
+          {
+            "stop_sequence": 11,
+            "stop_id": "L16N",
+            "arrival_time": 1758992388,
+            "departure_time": 1758992403
+          },
+          {
+            "stop_sequence": 12,
+            "stop_id": "L15N",
+            "arrival_time": 1758992478,
+            "departure_time": 1758992493
+          },
+          {
+            "stop_sequence": 13,
+            "stop_id": "L14N",
+            "arrival_time": 1758992598,
+            "departure_time": 1758992613
+          },
+          {
+            "stop_sequence": 14,
+            "stop_id": "L13N",
+            "arrival_time": 1758992718,
+            "departure_time": 1758992733
+          },
+          {
+            "stop_sequence": 15,
+            "stop_id": "L12N",
+            "arrival_time": 1758992778,
+            "departure_time": 1758992793
+          },
+          {
+            "stop_sequence": 16,
+            "stop_id": "L11N",
+            "arrival_time": 1758992868,
+            "departure_time": 1758992883
+          },
+          {
+            "stop_sequence": 17,
+            "stop_id": "L10N",
+            "arrival_time": 1758992928,
+            "departure_time": 1758992943
+          },
+          {
+            "stop_sequence": 18,
+            "stop_id": "L08N",
+            "arrival_time": 1758993018,
+            "departure_time": 1758993033
+          },
+          {
+            "stop_sequence": 19,
+            "stop_id": "L06N",
+            "arrival_time": 1758993258,
+            "departure_time": 1758993273
+          },
+          {
+            "stop_sequence": 20,
+            "stop_id": "L05N",
+            "arrival_time": 1758993318,
+            "departure_time": 1758993333
+          },
+          {
+            "stop_sequence": 21,
+            "stop_id": "L03N",
+            "arrival_time": 1758993408,
+            "departure_time": 1758993423
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L02N",
+            "arrival_time": 1758993498,
+            "departure_time": 1758993513
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L01N",
+            "arrival_time": 1758993648,
+            "departure_time": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "20",
+      "vehicle": {
+        "trip_id": "076100_L..N",
+        "route_id": "L",
+        "position": {
+          "latitude": null,
+          "longitude": null
+        },
+        "current_stop_sequence": 9,
+        "current_status": 1,
+        "timestamp": 1758992157,
+        "stop_id": "L19N"
+      }
+    },
+    {
+      "id": "21",
+      "trip_update": {
+        "trip_id": "076200_L..S",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 10,
+            "stop_id": "L14S",
+            "arrival_time": 1758992212,
+            "departure_time": 1758992227
+          },
+          {
+            "stop_sequence": 11,
+            "stop_id": "L15S",
+            "arrival_time": 1758992325,
+            "departure_time": 1758992340
+          },
+          {
+            "stop_sequence": 12,
+            "stop_id": "L16S",
+            "arrival_time": 1758992415,
+            "departure_time": 1758992430
+          },
+          {
+            "stop_sequence": 13,
+            "stop_id": "L17S",
+            "arrival_time": 1758992505,
+            "departure_time": 1758992520
+          },
+          {
+            "stop_sequence": 14,
+            "stop_id": "L19S",
+            "arrival_time": 1758992595,
+            "departure_time": 1758992610
+          },
+          {
+            "stop_sequence": 15,
+            "stop_id": "L20S",
+            "arrival_time": 1758992745,
+            "departure_time": 1758992760
+          },
+          {
+            "stop_sequence": 16,
+            "stop_id": "L21S",
+            "arrival_time": 1758992835,
+            "departure_time": 1758992850
+          },
+          {
+            "stop_sequence": 17,
+            "stop_id": "L22S",
+            "arrival_time": 1758992895,
+            "departure_time": 1758992910
+          },
+          {
+            "stop_sequence": 18,
+            "stop_id": "L24S",
+            "arrival_time": 1758992985,
+            "departure_time": 1758993000
+          },
+          {
+            "stop_sequence": 19,
+            "stop_id": "L25S",
+            "arrival_time": 1758993075,
+            "departure_time": 1758993090
+          },
+          {
+            "stop_sequence": 20,
+            "stop_id": "L26S",
+            "arrival_time": 1758993135,
+            "departure_time": 1758993150
+          },
+          {
+            "stop_sequence": 21,
+            "stop_id": "L27S",
+            "arrival_time": 1758993225,
+            "departure_time": 1758993240
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L28S",
+            "arrival_time": 1758993345,
+            "departure_time": 1758993360
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L29S",
+            "arrival_time": 1758993405,
+            "departure_time": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "22",
+      "vehicle": {
+        "trip_id": "076200_L..S",
+        "route_id": "L",
+        "position": {
+          "latitude": null,
+          "longitude": null
+        },
+        "current_stop_sequence": 10,
+        "current_status": 1,
+        "timestamp": 1758992157,
+        "stop_id": "L14S"
+      }
+    },
+    {
+      "id": "23",
+      "trip_update": {
+        "trip_id": "076500_L..N",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 7,
+            "stop_id": "L21N",
+            "arrival_time": 1758992178,
+            "departure_time": 1758992193
+          },
+          {
+            "stop_sequence": 8,
+            "stop_id": "L20N",
+            "arrival_time": 1758992235,
+            "departure_time": 1758992250
+          },
+          {
+            "stop_sequence": 9,
+            "stop_id": "L19N",
+            "arrival_time": 1758992385,
+            "departure_time": 1758992400
+          },
+          {
+            "stop_sequence": 10,
+            "stop_id": "L17N",
+            "arrival_time": 1758992475,
+            "departure_time": 1758992490
+          },
+          {
+            "stop_sequence": 11,
+            "stop_id": "L16N",
+            "arrival_time": 1758992565,
+            "departure_time": 1758992580
+          },
+          {
+            "stop_sequence": 12,
+            "stop_id": "L15N",
+            "arrival_time": 1758992655,
+            "departure_time": 1758992670
+          },
+          {
+            "stop_sequence": 13,
+            "stop_id": "L14N",
+            "arrival_time": 1758992775,
+            "departure_time": 1758992790
+          },
+          {
+            "stop_sequence": 14,
+            "stop_id": "L13N",
+            "arrival_time": 1758992895,
+            "departure_time": 1758992910
+          },
+          {
+            "stop_sequence": 15,
+            "stop_id": "L12N",
+            "arrival_time": 1758992955,
+            "departure_time": 1758992970
+          },
+          {
+            "stop_sequence": 16,
+            "stop_id": "L11N",
+            "arrival_time": 1758993045,
+            "departure_time": 1758993060
+          },
+          {
+            "stop_sequence": 17,
+            "stop_id": "L10N",
+            "arrival_time": 1758993105,
+            "departure_time": 1758993120
+          },
+          {
+            "stop_sequence": 18,
+            "stop_id": "L08N",
+            "arrival_time": 1758993195,
+            "departure_time": 1758993210
+          },
+          {
+            "stop_sequence": 19,
+            "stop_id": "L06N",
+            "arrival_time": 1758993435,
+            "departure_time": 1758993450
+          },
+          {
+            "stop_sequence": 20,
+            "stop_id": "L05N",
+            "arrival_time": 1758993495,
+            "departure_time": 1758993510
+          },
+          {
+            "stop_sequence": 21,
+            "stop_id": "L03N",
+            "arrival_time": 1758993585,
+            "departure_time": 1758993600
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L02N",
+            "arrival_time": 1758993675,
+            "departure_time": 1758993690
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L01N",
+            "arrival_time": 1758993825,
+            "departure_time": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "24",
+      "vehicle": {
+        "trip_id": "076500_L..N",
+        "route_id": "L",
+        "position": {
+          "latitude": null,
+          "longitude": null
+        },
+        "current_stop_sequence": 7,
+        "current_status": 1,
+        "timestamp": 1758992157,
+        "stop_id": "L21N"
+      }
+    },
+    {
+      "id": "25",
+      "trip_update": {
+        "trip_id": "076600_L..S",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 6,
+            "stop_id": "L10S",
+            "arrival_time": 1758992207,
+            "departure_time": 1758992222
+          },
+          {
+            "stop_sequence": 7,
+            "stop_id": "L11S",
+            "arrival_time": 1758992233,
+            "departure_time": 1758992248
+          },
+          {
+            "stop_sequence": 8,
+            "stop_id": "L12S",
+            "arrival_time": 1758992323,
+            "departure_time": 1758992338
+          },
+          {
+            "stop_sequence": 9,
+            "stop_id": "L13S",
+            "arrival_time": 1758992383,
+            "departure_time": 1758992398
+          },
+          {
+            "stop_sequence": 10,
+            "stop_id": "L14S",
+            "arrival_time": 1758992503,
+            "departure_time": 1758992518
+          },
+          {
+            "stop_sequence": 11,
+            "stop_id": "L15S",
+            "arrival_time": 1758992623,
+            "departure_time": 1758992638
+          },
+          {
+            "stop_sequence": 12,
+            "stop_id": "L16S",
+            "arrival_time": 1758992713,
+            "departure_time": 1758992728
+          },
+          {
+            "stop_sequence": 13,
+            "stop_id": "L17S",
+            "arrival_time": 1758992803,
+            "departure_time": 1758992818
+          },
+          {
+            "stop_sequence": 14,
+            "stop_id": "L19S",
+            "arrival_time": 1758992893,
+            "departure_time": 1758992908
+          },
+          {
+            "stop_sequence": 15,
+            "stop_id": "L20S",
+            "arrival_time": 1758993043,
+            "departure_time": 1758993058
+          },
+          {
+            "stop_sequence": 16,
+            "stop_id": "L21S",
+            "arrival_time": 1758993133,
+            "departure_time": 1758993148
+          },
+          {
+            "stop_sequence": 17,
+            "stop_id": "L22S",
+            "arrival_time": 1758993193,
+            "departure_time": 1758993208
+          },
+          {
+            "stop_sequence": 18,
+            "stop_id": "L24S",
+            "arrival_time": 1758993283,
+            "departure_time": 1758993298
+          },
+          {
+            "stop_sequence": 19,
+            "stop_id": "L25S",
+            "arrival_time": 1758993373,
+            "departure_time": 1758993388
+          },
+          {
+            "stop_sequence": 20,
+            "stop_id": "L26S",
+            "arrival_time": 1758993433,
+            "departure_time": 1758993448
+          },
+          {
+            "stop_sequence": 21,
+            "stop_id": "L27S",
+            "arrival_time": 1758993523,
+            "departure_time": 1758993538
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L28S",
+            "arrival_time": 1758993643,
+            "departure_time": 1758993658
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L29S",
+            "arrival_time": 1758993703,
+            "departure_time": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "26",
+      "vehicle": {
+        "trip_id": "076600_L..S",
+        "route_id": "L",
+        "position": {
+          "latitude": null,
+          "longitude": null
+        },
+        "current_stop_sequence": 6,
+        "current_status": 1,
+        "timestamp": 1758992157,
+        "stop_id": "L10S"
+      }
+    },
+    {
+      "id": "27",
+      "trip_update": {
+        "trip_id": "077000_L..S",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 5,
+            "stop_id": "L08S",
+            "arrival_time": 1758992328,
+            "departure_time": 1758992343
+          },
+          {
+            "stop_sequence": 6,
+            "stop_id": "L10S",
+            "arrival_time": 1758992448,
+            "departure_time": 1758992463
+          },
+          {
+            "stop_sequence": 7,
+            "stop_id": "L11S",
+            "arrival_time": 1758992508,
+            "departure_time": 1758992523
+          },
+          {
+            "stop_sequence": 8,
+            "stop_id": "L12S",
+            "arrival_time": 1758992598,
+            "departure_time": 1758992613
+          },
+          {
+            "stop_sequence": 9,
+            "stop_id": "L13S",
+            "arrival_time": 1758992658,
+            "departure_time": 1758992673
+          },
+          {
+            "stop_sequence": 10,
+            "stop_id": "L14S",
+            "arrival_time": 1758992778,
+            "departure_time": 1758992793
+          },
+          {
+            "stop_sequence": 11,
+            "stop_id": "L15S",
+            "arrival_time": 1758992898,
+            "departure_time": 1758992913
+          },
+          {
+            "stop_sequence": 12,
+            "stop_id": "L16S",
+            "arrival_time": 1758992988,
+            "departure_time": 1758993003
+          },
+          {
+            "stop_sequence": 13,
+            "stop_id": "L17S",
+            "arrival_time": 1758993078,
+            "departure_time": 1758993093
+          },
+          {
+            "stop_sequence": 14,
+            "stop_id": "L19S",
+            "arrival_time": 1758993168,
+            "departure_time": 1758993183
+          },
+          {
+            "stop_sequence": 15,
+            "stop_id": "L20S",
+            "arrival_time": 1758993318,
+            "departure_time": 1758993333
+          },
+          {
+            "stop_sequence": 16,
+            "stop_id": "L21S",
+            "arrival_time": 1758993408,
+            "departure_time": 1758993423
+          },
+          {
+            "stop_sequence": 17,
+            "stop_id": "L22S",
+            "arrival_time": 1758993468,
+            "departure_time": 1758993483
+          },
+          {
+            "stop_sequence": 18,
+            "stop_id": "L24S",
+            "arrival_time": 1758993558,
+            "departure_time": 1758993573
+          },
+          {
+            "stop_sequence": 19,
+            "stop_id": "L25S",
+            "arrival_time": 1758993648,
+            "departure_time": 1758993663
+          },
+          {
+            "stop_sequence": 20,
+            "stop_id": "L26S",
+            "arrival_time": 1758993708,
+            "departure_time": 1758993723
+          },
+          {
+            "stop_sequence": 21,
+            "stop_id": "L27S",
+            "arrival_time": 1758993798,
+            "departure_time": 1758993813
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L28S",
+            "arrival_time": 1758993918,
+            "departure_time": 1758993933
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L29S",
+            "arrival_time": 1758993978,
+            "departure_time": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "28",
+      "vehicle": {
+        "trip_id": "077000_L..S",
+        "route_id": "L",
+        "position": {
+          "latitude": null,
+          "longitude": null
+        },
+        "current_stop_sequence": 5,
+        "current_status": 2,
+        "timestamp": 1758992149,
+        "stop_id": "L08S"
+      }
+    },
+    {
+      "id": "29",
+      "trip_update": {
+        "trip_id": "077050_L..N",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 5,
+            "stop_id": "L24N",
+            "arrival_time": 1758992220,
+            "departure_time": 1758992235
+          },
+          {
+            "stop_sequence": 6,
+            "stop_id": "L22N",
+            "arrival_time": 1758992310,
+            "departure_time": 1758992325
+          },
+          {
+            "stop_sequence": 7,
+            "stop_id": "L21N",
+            "arrival_time": 1758992370,
+            "departure_time": 1758992385
+          },
+          {
+            "stop_sequence": 8,
+            "stop_id": "L20N",
+            "arrival_time": 1758992460,
+            "departure_time": 1758992475
+          },
+          {
+            "stop_sequence": 9,
+            "stop_id": "L19N",
+            "arrival_time": 1758992610,
+            "departure_time": 1758992625
+          },
+          {
+            "stop_sequence": 10,
+            "stop_id": "L17N",
+            "arrival_time": 1758992700,
+            "departure_time": 1758992715
+          },
+          {
+            "stop_sequence": 11,
+            "stop_id": "L16N",
+            "arrival_time": 1758992790,
+            "departure_time": 1758992805
+          },
+          {
+            "stop_sequence": 12,
+            "stop_id": "L15N",
+            "arrival_time": 1758992880,
+            "departure_time": 1758992895
+          },
+          {
+            "stop_sequence": 13,
+            "stop_id": "L14N",
+            "arrival_time": 1758993000,
+            "departure_time": 1758993015
+          },
+          {
+            "stop_sequence": 14,
+            "stop_id": "L13N",
+            "arrival_time": 1758993120,
+            "departure_time": 1758993135
+          },
+          {
+            "stop_sequence": 15,
+            "stop_id": "L12N",
+            "arrival_time": 1758993180,
+            "departure_time": 1758993195
+          },
+          {
+            "stop_sequence": 16,
+            "stop_id": "L11N",
+            "arrival_time": 1758993270,
+            "departure_time": 1758993285
+          },
+          {
+            "stop_sequence": 17,
+            "stop_id": "L10N",
+            "arrival_time": 1758993330,
+            "departure_time": 1758993345
+          },
+          {
+            "stop_sequence": 18,
+            "stop_id": "L08N",
+            "arrival_time": 1758993420,
+            "departure_time": 1758993435
+          },
+          {
+            "stop_sequence": 19,
+            "stop_id": "L06N",
+            "arrival_time": 1758993660,
+            "departure_time": 1758993675
+          },
+          {
+            "stop_sequence": 20,
+            "stop_id": "L05N",
+            "arrival_time": 1758993720,
+            "departure_time": 1758993735
+          },
+          {
+            "stop_sequence": 21,
+            "stop_id": "L03N",
+            "arrival_time": 1758993810,
+            "departure_time": 1758993825
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L02N",
+            "arrival_time": 1758993900,
+            "departure_time": 1758993915
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L01N",
+            "arrival_time": 1758994050,
+            "departure_time": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "30",
+      "vehicle": {
+        "trip_id": "077050_L..N",
+        "route_id": "L",
+        "position": {
+          "latitude": null,
+          "longitude": null
+        },
+        "current_stop_sequence": 5,
+        "current_status": 2,
+        "timestamp": 1758992149,
+        "stop_id": "L24N"
+      }
+    },
+    {
+      "id": "31",
+      "trip_update": {
+        "trip_id": "077400_L..S",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 2,
+            "stop_id": "L03S",
+            "arrival_time": 1758992187,
+            "departure_time": 1758992202
+          },
+          {
+            "stop_sequence": 3,
+            "stop_id": "L05S",
+            "arrival_time": 1758992240,
+            "departure_time": 1758992255
+          },
+          {
+            "stop_sequence": 4,
+            "stop_id": "L06S",
+            "arrival_time": 1758992300,
+            "departure_time": 1758992315
+          },
+          {
+            "stop_sequence": 5,
+            "stop_id": "L08S",
+            "arrival_time": 1758992540,
+            "departure_time": 1758992555
+          },
+          {
+            "stop_sequence": 6,
+            "stop_id": "L10S",
+            "arrival_time": 1758992660,
+            "departure_time": 1758992675
+          },
+          {
+            "stop_sequence": 7,
+            "stop_id": "L11S",
+            "arrival_time": 1758992720,
+            "departure_time": 1758992735
+          },
+          {
+            "stop_sequence": 8,
+            "stop_id": "L12S",
+            "arrival_time": 1758992810,
+            "departure_time": 1758992825
+          },
+          {
+            "stop_sequence": 9,
+            "stop_id": "L13S",
+            "arrival_time": 1758992870,
+            "departure_time": 1758992885
+          },
+          {
+            "stop_sequence": 10,
+            "stop_id": "L14S",
+            "arrival_time": 1758992990,
+            "departure_time": 1758993005
+          },
+          {
+            "stop_sequence": 11,
+            "stop_id": "L15S",
+            "arrival_time": 1758993110,
+            "departure_time": 1758993125
+          },
+          {
+            "stop_sequence": 12,
+            "stop_id": "L16S",
+            "arrival_time": 1758993200,
+            "departure_time": 1758993215
+          },
+          {
+            "stop_sequence": 13,
+            "stop_id": "L17S",
+            "arrival_time": 1758993290,
+            "departure_time": 1758993305
+          },
+          {
+            "stop_sequence": 14,
+            "stop_id": "L19S",
+            "arrival_time": 1758993380,
+            "departure_time": 1758993395
+          },
+          {
+            "stop_sequence": 15,
+            "stop_id": "L20S",
+            "arrival_time": 1758993530,
+            "departure_time": 1758993545
+          },
+          {
+            "stop_sequence": 16,
+            "stop_id": "L21S",
+            "arrival_time": 1758993620,
+            "departure_time": 1758993635
+          },
+          {
+            "stop_sequence": 17,
+            "stop_id": "L22S",
+            "arrival_time": 1758993680,
+            "departure_time": 1758993695
+          },
+          {
+            "stop_sequence": 18,
+            "stop_id": "L24S",
+            "arrival_time": 1758993770,
+            "departure_time": 1758993785
+          },
+          {
+            "stop_sequence": 19,
+            "stop_id": "L25S",
+            "arrival_time": 1758993860,
+            "departure_time": 1758993875
+          },
+          {
+            "stop_sequence": 20,
+            "stop_id": "L26S",
+            "arrival_time": 1758993920,
+            "departure_time": 1758993935
+          },
+          {
+            "stop_sequence": 21,
+            "stop_id": "L27S",
+            "arrival_time": 1758994010,
+            "departure_time": 1758994025
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L28S",
+            "arrival_time": 1758994130,
+            "departure_time": 1758994145
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L29S",
+            "arrival_time": 1758994190,
+            "departure_time": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "32",
+      "vehicle": {
+        "trip_id": "077400_L..S",
+        "route_id": "L",
+        "position": {
+          "latitude": null,
+          "longitude": null
+        },
+        "current_stop_sequence": 2,
+        "current_status": 1,
+        "timestamp": 1758992157,
+        "stop_id": "L03S"
+      }
+    },
+    {
+      "id": "33",
+      "trip_update": {
+        "trip_id": "077450_L..N",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 2,
+            "stop_id": "L27N",
+            "arrival_time": 1758992205,
+            "departure_time": 1758992220
+          },
+          {
+            "stop_sequence": 3,
+            "stop_id": "L26N",
+            "arrival_time": 1758992295,
+            "departure_time": 1758992310
+          },
+          {
+            "stop_sequence": 4,
+            "stop_id": "L25N",
+            "arrival_time": 1758992385,
+            "departure_time": 1758992400
+          },
+          {
+            "stop_sequence": 5,
+            "stop_id": "L24N",
+            "arrival_time": 1758992475,
+            "departure_time": 1758992490
+          },
+          {
+            "stop_sequence": 6,
+            "stop_id": "L22N",
+            "arrival_time": 1758992655,
+            "departure_time": 1758992670
+          },
+          {
+            "stop_sequence": 7,
+            "stop_id": "L21N",
+            "arrival_time": 1758992715,
+            "departure_time": 1758992730
+          },
+          {
+            "stop_sequence": 8,
+            "stop_id": "L20N",
+            "arrival_time": 1758992805,
+            "departure_time": 1758992820
+          },
+          {
+            "stop_sequence": 9,
+            "stop_id": "L19N",
+            "arrival_time": 1758992955,
+            "departure_time": 1758992970
+          },
+          {
+            "stop_sequence": 10,
+            "stop_id": "L17N",
+            "arrival_time": 1758993045,
+            "departure_time": 1758993060
+          },
+          {
+            "stop_sequence": 11,
+            "stop_id": "L16N",
+            "arrival_time": 1758993135,
+            "departure_time": 1758993150
+          },
+          {
+            "stop_sequence": 12,
+            "stop_id": "L15N",
+            "arrival_time": 1758993225,
+            "departure_time": 1758993240
+          },
+          {
+            "stop_sequence": 13,
+            "stop_id": "L14N",
+            "arrival_time": 1758993345,
+            "departure_time": 1758993360
+          },
+          {
+            "stop_sequence": 14,
+            "stop_id": "L13N",
+            "arrival_time": 1758993465,
+            "departure_time": 1758993480
+          },
+          {
+            "stop_sequence": 15,
+            "stop_id": "L12N",
+            "arrival_time": 1758993525,
+            "departure_time": 1758993540
+          },
+          {
+            "stop_sequence": 16,
+            "stop_id": "L11N",
+            "arrival_time": 1758993615,
+            "departure_time": 1758993630
+          },
+          {
+            "stop_sequence": 17,
+            "stop_id": "L10N",
+            "arrival_time": 1758993675,
+            "departure_time": 1758993690
+          },
+          {
+            "stop_sequence": 18,
+            "stop_id": "L08N",
+            "arrival_time": 1758993765,
+            "departure_time": 1758993780
+          },
+          {
+            "stop_sequence": 19,
+            "stop_id": "L06N",
+            "arrival_time": 1758994005,
+            "departure_time": 1758994020
+          },
+          {
+            "stop_sequence": 20,
+            "stop_id": "L05N",
+            "arrival_time": 1758994065,
+            "departure_time": 1758994080
+          },
+          {
+            "stop_sequence": 21,
+            "stop_id": "L03N",
+            "arrival_time": 1758994155,
+            "departure_time": 1758994170
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L02N",
+            "arrival_time": 1758994245,
+            "departure_time": 1758994260
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L01N",
+            "arrival_time": 1758994395,
+            "departure_time": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "34",
+      "vehicle": {
+        "trip_id": "077450_L..N",
+        "route_id": "L",
+        "position": {
+          "latitude": null,
+          "longitude": null
+        },
+        "current_stop_sequence": 2,
+        "current_status": 2,
+        "timestamp": 1758992149,
+        "stop_id": "L27N"
+      }
+    },
+    {
+      "id": "35",
+      "trip_update": {
+        "trip_id": "077700_L..N",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 0,
+            "stop_id": "L29N",
+            "arrival_time": null,
+            "departure_time": 1758992220
+          },
+          {
+            "stop_sequence": 1,
+            "stop_id": "L28N",
+            "arrival_time": 1758992295,
+            "departure_time": 1758992310
+          },
+          {
+            "stop_sequence": 2,
+            "stop_id": "L27N",
+            "arrival_time": 1758992445,
+            "departure_time": 1758992460
+          },
+          {
+            "stop_sequence": 3,
+            "stop_id": "L26N",
+            "arrival_time": 1758992535,
+            "departure_time": 1758992550
+          },
+          {
+            "stop_sequence": 4,
+            "stop_id": "L25N",
+            "arrival_time": 1758992625,
+            "departure_time": 1758992640
+          },
+          {
+            "stop_sequence": 5,
+            "stop_id": "L24N",
+            "arrival_time": 1758992715,
+            "departure_time": 1758992730
+          },
+          {
+            "stop_sequence": 6,
+            "stop_id": "L22N",
+            "arrival_time": 1758992895,
+            "departure_time": 1758992910
+          },
+          {
+            "stop_sequence": 7,
+            "stop_id": "L21N",
+            "arrival_time": 1758992955,
+            "departure_time": 1758992970
+          },
+          {
+            "stop_sequence": 8,
+            "stop_id": "L20N",
+            "arrival_time": 1758993045,
+            "departure_time": 1758993060
+          },
+          {
+            "stop_sequence": 9,
+            "stop_id": "L19N",
+            "arrival_time": 1758993195,
+            "departure_time": 1758993210
+          },
+          {
+            "stop_sequence": 10,
+            "stop_id": "L17N",
+            "arrival_time": 1758993285,
+            "departure_time": 1758993300
+          },
+          {
+            "stop_sequence": 11,
+            "stop_id": "L16N",
+            "arrival_time": 1758993375,
+            "departure_time": 1758993390
+          },
+          {
+            "stop_sequence": 12,
+            "stop_id": "L15N",
+            "arrival_time": 1758993465,
+            "departure_time": 1758993480
+          },
+          {
+            "stop_sequence": 13,
+            "stop_id": "L14N",
+            "arrival_time": 1758993585,
+            "departure_time": 1758993600
+          },
+          {
+            "stop_sequence": 14,
+            "stop_id": "L13N",
+            "arrival_time": 1758993705,
+            "departure_time": 1758993720
+          },
+          {
+            "stop_sequence": 15,
+            "stop_id": "L12N",
+            "arrival_time": 1758993765,
+            "departure_time": 1758993780
+          },
+          {
+            "stop_sequence": 16,
+            "stop_id": "L11N",
+            "arrival_time": 1758993855,
+            "departure_time": 1758993870
+          },
+          {
+            "stop_sequence": 17,
+            "stop_id": "L10N",
+            "arrival_time": 1758993915,
+            "departure_time": 1758993930
+          },
+          {
+            "stop_sequence": 18,
+            "stop_id": "L08N",
+            "arrival_time": 1758994005,
+            "departure_time": 1758994020
+          },
+          {
+            "stop_sequence": 19,
+            "stop_id": "L06N",
+            "arrival_time": 1758994245,
+            "departure_time": 1758994260
+          },
+          {
+            "stop_sequence": 20,
+            "stop_id": "L05N",
+            "arrival_time": 1758994305,
+            "departure_time": 1758994320
+          },
+          {
+            "stop_sequence": 21,
+            "stop_id": "L03N",
+            "arrival_time": 1758994395,
+            "departure_time": 1758994410
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L02N",
+            "arrival_time": 1758994485,
+            "departure_time": 1758994500
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L01N",
+            "arrival_time": 1758994635,
+            "departure_time": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "36",
+      "vehicle": {
+        "trip_id": "077700_L..N",
+        "route_id": "L",
+        "position": {
+          "latitude": null,
+          "longitude": null
+        },
+        "current_stop_sequence": null,
+        "current_status": 1,
+        "timestamp": 1758992160,
+        "stop_id": "L29N"
+      }
+    },
+    {
+      "id": "37",
+      "trip_update": {
+        "trip_id": "077800_L..S",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 0,
+            "stop_id": "L01S",
+            "arrival_time": null,
+            "departure_time": 1758992280
+          },
+          {
+            "stop_sequence": 1,
+            "stop_id": "L02S",
+            "arrival_time": 1758992355,
+            "departure_time": 1758992370
+          },
+          {
+            "stop_sequence": 2,
+            "stop_id": "L03S",
+            "arrival_time": 1758992445,
+            "departure_time": 1758992460
+          },
+          {
+            "stop_sequence": 3,
+            "stop_id": "L05S",
+            "arrival_time": 1758992505,
+            "departure_time": 1758992520
+          },
+          {
+            "stop_sequence": 4,
+            "stop_id": "L06S",
+            "arrival_time": 1758992565,
+            "departure_time": 1758992580
+          },
+          {
+            "stop_sequence": 5,
+            "stop_id": "L08S",
+            "arrival_time": 1758992805,
+            "departure_time": 1758992820
+          },
+          {
+            "stop_sequence": 6,
+            "stop_id": "L10S",
+            "arrival_time": 1758992925,
+            "departure_time": 1758992940
+          },
+          {
+            "stop_sequence": 7,
+            "stop_id": "L11S",
+            "arrival_time": 1758992985,
+            "departure_time": 1758993000
+          },
+          {
+            "stop_sequence": 8,
+            "stop_id": "L12S",
+            "arrival_time": 1758993075,
+            "departure_time": 1758993090
+          },
+          {
+            "stop_sequence": 9,
+            "stop_id": "L13S",
+            "arrival_time": 1758993135,
+            "departure_time": 1758993150
+          },
+          {
+            "stop_sequence": 10,
+            "stop_id": "L14S",
+            "arrival_time": 1758993255,
+            "departure_time": 1758993270
+          },
+          {
+            "stop_sequence": 11,
+            "stop_id": "L15S",
+            "arrival_time": 1758993375,
+            "departure_time": 1758993390
+          },
+          {
+            "stop_sequence": 12,
+            "stop_id": "L16S",
+            "arrival_time": 1758993465,
+            "departure_time": 1758993480
+          },
+          {
+            "stop_sequence": 13,
+            "stop_id": "L17S",
+            "arrival_time": 1758993555,
+            "departure_time": 1758993570
+          },
+          {
+            "stop_sequence": 14,
+            "stop_id": "L19S",
+            "arrival_time": 1758993645,
+            "departure_time": 1758993660
+          },
+          {
+            "stop_sequence": 15,
+            "stop_id": "L20S",
+            "arrival_time": 1758993795,
+            "departure_time": 1758993810
+          },
+          {
+            "stop_sequence": 16,
+            "stop_id": "L21S",
+            "arrival_time": 1758993885,
+            "departure_time": 1758993900
+          },
+          {
+            "stop_sequence": 17,
+            "stop_id": "L22S",
+            "arrival_time": 1758993945,
+            "departure_time": 1758993960
+          },
+          {
+            "stop_sequence": 18,
+            "stop_id": "L24S",
+            "arrival_time": 1758994035,
+            "departure_time": 1758994050
+          },
+          {
+            "stop_sequence": 19,
+            "stop_id": "L25S",
+            "arrival_time": 1758994125,
+            "departure_time": 1758994140
+          },
+          {
+            "stop_sequence": 20,
+            "stop_id": "L26S",
+            "arrival_time": 1758994185,
+            "departure_time": 1758994200
+          },
+          {
+            "stop_sequence": 21,
+            "stop_id": "L27S",
+            "arrival_time": 1758994275,
+            "departure_time": 1758994290
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L28S",
+            "arrival_time": 1758994395,
+            "departure_time": 1758994410
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L29S",
+            "arrival_time": 1758994455,
+            "departure_time": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "38",
+      "vehicle": {
+        "trip_id": "077800_L..S",
+        "route_id": "L",
+        "position": {
+          "latitude": null,
+          "longitude": null
+        },
+        "current_stop_sequence": null,
+        "current_status": 1,
+        "timestamp": 1758992160,
+        "stop_id": "L01S"
+      }
+    },
+    {
+      "id": "39",
+      "trip_update": {
+        "trip_id": "078200_L..S",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 0,
+            "stop_id": "L01S",
+            "arrival_time": null,
+            "departure_time": 1758992520
+          },
+          {
+            "stop_sequence": 1,
+            "stop_id": "L02S",
+            "arrival_time": 1758992595,
+            "departure_time": 1758992610
+          },
+          {
+            "stop_sequence": 2,
+            "stop_id": "L03S",
+            "arrival_time": 1758992685,
+            "departure_time": 1758992700
+          },
+          {
+            "stop_sequence": 3,
+            "stop_id": "L05S",
+            "arrival_time": 1758992745,
+            "departure_time": 1758992760
+          },
+          {
+            "stop_sequence": 4,
+            "stop_id": "L06S",
+            "arrival_time": 1758992805,
+            "departure_time": 1758992820
+          },
+          {
+            "stop_sequence": 5,
+            "stop_id": "L08S",
+            "arrival_time": 1758993045,
+            "departure_time": 1758993060
+          },
+          {
+            "stop_sequence": 6,
+            "stop_id": "L10S",
+            "arrival_time": 1758993165,
+            "departure_time": 1758993180
+          },
+          {
+            "stop_sequence": 7,
+            "stop_id": "L11S",
+            "arrival_time": 1758993225,
+            "departure_time": 1758993240
+          },
+          {
+            "stop_sequence": 8,
+            "stop_id": "L12S",
+            "arrival_time": 1758993315,
+            "departure_time": 1758993330
+          },
+          {
+            "stop_sequence": 9,
+            "stop_id": "L13S",
+            "arrival_time": 1758993375,
+            "departure_time": 1758993390
+          },
+          {
+            "stop_sequence": 10,
+            "stop_id": "L14S",
+            "arrival_time": 1758993495,
+            "departure_time": 1758993510
+          },
+          {
+            "stop_sequence": 11,
+            "stop_id": "L15S",
+            "arrival_time": 1758993615,
+            "departure_time": 1758993630
+          },
+          {
+            "stop_sequence": 12,
+            "stop_id": "L16S",
+            "arrival_time": 1758993705,
+            "departure_time": 1758993720
+          },
+          {
+            "stop_sequence": 13,
+            "stop_id": "L17S",
+            "arrival_time": 1758993795,
+            "departure_time": 1758993810
+          },
+          {
+            "stop_sequence": 14,
+            "stop_id": "L19S",
+            "arrival_time": 1758993885,
+            "departure_time": 1758993900
+          },
+          {
+            "stop_sequence": 15,
+            "stop_id": "L20S",
+            "arrival_time": 1758994035,
+            "departure_time": 1758994050
+          },
+          {
+            "stop_sequence": 16,
+            "stop_id": "L21S",
+            "arrival_time": 1758994125,
+            "departure_time": 1758994140
+          },
+          {
+            "stop_sequence": 17,
+            "stop_id": "L22S",
+            "arrival_time": 1758994185,
+            "departure_time": 1758994200
+          },
+          {
+            "stop_sequence": 18,
+            "stop_id": "L24S",
+            "arrival_time": 1758994275,
+            "departure_time": 1758994290
+          },
+          {
+            "stop_sequence": 19,
+            "stop_id": "L25S",
+            "arrival_time": 1758994365,
+            "departure_time": 1758994380
+          },
+          {
+            "stop_sequence": 20,
+            "stop_id": "L26S",
+            "arrival_time": 1758994425,
+            "departure_time": 1758994440
+          },
+          {
+            "stop_sequence": 21,
+            "stop_id": "L27S",
+            "arrival_time": 1758994515,
+            "departure_time": 1758994530
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L28S",
+            "arrival_time": 1758994635,
+            "departure_time": 1758994650
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L29S",
+            "arrival_time": 1758994695,
+            "departure_time": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "40",
+      "trip_update": {
+        "trip_id": "078500_L..N",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 0,
+            "stop_id": "L29N",
+            "arrival_time": null,
+            "departure_time": 1758992700
+          },
+          {
+            "stop_sequence": 1,
+            "stop_id": "L28N",
+            "arrival_time": 1758992775,
+            "departure_time": 1758992790
+          },
+          {
+            "stop_sequence": 2,
+            "stop_id": "L27N",
+            "arrival_time": 1758992925,
+            "departure_time": 1758992940
+          },
+          {
+            "stop_sequence": 3,
+            "stop_id": "L26N",
+            "arrival_time": 1758993015,
+            "departure_time": 1758993030
+          },
+          {
+            "stop_sequence": 4,
+            "stop_id": "L25N",
+            "arrival_time": 1758993105,
+            "departure_time": 1758993120
+          },
+          {
+            "stop_sequence": 5,
+            "stop_id": "L24N",
+            "arrival_time": 1758993195,
+            "departure_time": 1758993210
+          },
+          {
+            "stop_sequence": 6,
+            "stop_id": "L22N",
+            "arrival_time": 1758993375,
+            "departure_time": 1758993390
+          },
+          {
+            "stop_sequence": 7,
+            "stop_id": "L21N",
+            "arrival_time": 1758993435,
+            "departure_time": 1758993450
+          },
+          {
+            "stop_sequence": 8,
+            "stop_id": "L20N",
+            "arrival_time": 1758993525,
+            "departure_time": 1758993540
+          },
+          {
+            "stop_sequence": 9,
+            "stop_id": "L19N",
+            "arrival_time": 1758993675,
+            "departure_time": 1758993690
+          },
+          {
+            "stop_sequence": 10,
+            "stop_id": "L17N",
+            "arrival_time": 1758993765,
+            "departure_time": 1758993780
+          },
+          {
+            "stop_sequence": 11,
+            "stop_id": "L16N",
+            "arrival_time": 1758993855,
+            "departure_time": 1758993870
+          },
+          {
+            "stop_sequence": 12,
+            "stop_id": "L15N",
+            "arrival_time": 1758993945,
+            "departure_time": 1758993960
+          },
+          {
+            "stop_sequence": 13,
+            "stop_id": "L14N",
+            "arrival_time": 1758994065,
+            "departure_time": 1758994080
+          },
+          {
+            "stop_sequence": 14,
+            "stop_id": "L13N",
+            "arrival_time": 1758994185,
+            "departure_time": 1758994200
+          },
+          {
+            "stop_sequence": 15,
+            "stop_id": "L12N",
+            "arrival_time": 1758994245,
+            "departure_time": 1758994260
+          },
+          {
+            "stop_sequence": 16,
+            "stop_id": "L11N",
+            "arrival_time": 1758994335,
+            "departure_time": 1758994350
+          },
+          {
+            "stop_sequence": 17,
+            "stop_id": "L10N",
+            "arrival_time": 1758994395,
+            "departure_time": 1758994410
+          },
+          {
+            "stop_sequence": 18,
+            "stop_id": "L08N",
+            "arrival_time": 1758994485,
+            "departure_time": 1758994500
+          },
+          {
+            "stop_sequence": 19,
+            "stop_id": "L06N",
+            "arrival_time": 1758994725,
+            "departure_time": 1758994740
+          },
+          {
+            "stop_sequence": 20,
+            "stop_id": "L05N",
+            "arrival_time": 1758994785,
+            "departure_time": 1758994800
+          },
+          {
+            "stop_sequence": 21,
+            "stop_id": "L03N",
+            "arrival_time": 1758994875,
+            "departure_time": 1758994890
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L02N",
+            "arrival_time": 1758994965,
+            "departure_time": 1758994980
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L01N",
+            "arrival_time": 1758995115,
+            "departure_time": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "41",
+      "vehicle": {
+        "trip_id": "078500_L..N",
+        "route_id": "L",
+        "position": {
+          "latitude": null,
+          "longitude": null
+        },
+        "current_stop_sequence": null,
+        "current_status": 1,
+        "timestamp": 1758992160,
+        "stop_id": "L29N"
+      }
+    },
+    {
+      "id": "42",
+      "trip_update": {
+        "trip_id": "078600_L..S",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 0,
+            "stop_id": "L01S",
+            "arrival_time": null,
+            "departure_time": 1758992760
+          },
+          {
+            "stop_sequence": 1,
+            "stop_id": "L02S",
+            "arrival_time": 1758992835,
+            "departure_time": 1758992850
+          },
+          {
+            "stop_sequence": 2,
+            "stop_id": "L03S",
+            "arrival_time": 1758992925,
+            "departure_time": 1758992940
+          },
+          {
+            "stop_sequence": 3,
+            "stop_id": "L05S",
+            "arrival_time": 1758992985,
+            "departure_time": 1758993000
+          },
+          {
+            "stop_sequence": 4,
+            "stop_id": "L06S",
+            "arrival_time": 1758993045,
+            "departure_time": 1758993060
+          },
+          {
+            "stop_sequence": 5,
+            "stop_id": "L08S",
+            "arrival_time": 1758993285,
+            "departure_time": 1758993300
+          },
+          {
+            "stop_sequence": 6,
+            "stop_id": "L10S",
+            "arrival_time": 1758993405,
+            "departure_time": 1758993420
+          },
+          {
+            "stop_sequence": 7,
+            "stop_id": "L11S",
+            "arrival_time": 1758993465,
+            "departure_time": 1758993480
+          },
+          {
+            "stop_sequence": 8,
+            "stop_id": "L12S",
+            "arrival_time": 1758993555,
+            "departure_time": 1758993570
+          },
+          {
+            "stop_sequence": 9,
+            "stop_id": "L13S",
+            "arrival_time": 1758993615,
+            "departure_time": 1758993630
+          },
+          {
+            "stop_sequence": 10,
+            "stop_id": "L14S",
+            "arrival_time": 1758993735,
+            "departure_time": 1758993750
+          },
+          {
+            "stop_sequence": 11,
+            "stop_id": "L15S",
+            "arrival_time": 1758993855,
+            "departure_time": 1758993870
+          },
+          {
+            "stop_sequence": 12,
+            "stop_id": "L16S",
+            "arrival_time": 1758993945,
+            "departure_time": 1758993960
+          },
+          {
+            "stop_sequence": 13,
+            "stop_id": "L17S",
+            "arrival_time": 1758994035,
+            "departure_time": 1758994050
+          },
+          {
+            "stop_sequence": 14,
+            "stop_id": "L19S",
+            "arrival_time": 1758994125,
+            "departure_time": 1758994140
+          },
+          {
+            "stop_sequence": 15,
+            "stop_id": "L20S",
+            "arrival_time": 1758994275,
+            "departure_time": 1758994290
+          },
+          {
+            "stop_sequence": 16,
+            "stop_id": "L21S",
+            "arrival_time": 1758994365,
+            "departure_time": 1758994380
+          },
+          {
+            "stop_sequence": 17,
+            "stop_id": "L22S",
+            "arrival_time": 1758994425,
+            "departure_time": 1758994440
+          },
+          {
+            "stop_sequence": 18,
+            "stop_id": "L24S",
+            "arrival_time": 1758994515,
+            "departure_time": 1758994530
+          },
+          {
+            "stop_sequence": 19,
+            "stop_id": "L25S",
+            "arrival_time": 1758994605,
+            "departure_time": 1758994620
+          },
+          {
+            "stop_sequence": 20,
+            "stop_id": "L26S",
+            "arrival_time": 1758994665,
+            "departure_time": 1758994680
+          },
+          {
+            "stop_sequence": 21,
+            "stop_id": "L27S",
+            "arrival_time": 1758994755,
+            "departure_time": 1758994770
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L28S",
+            "arrival_time": 1758994875,
+            "departure_time": 1758994890
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L29S",
+            "arrival_time": 1758994935,
+            "departure_time": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "43",
+      "trip_update": {
+        "trip_id": "078900_L..N",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 0,
+            "stop_id": "L29N",
+            "arrival_time": null,
+            "departure_time": 1758992940
+          },
+          {
+            "stop_sequence": 1,
+            "stop_id": "L28N",
+            "arrival_time": 1758993015,
+            "departure_time": 1758993030
+          },
+          {
+            "stop_sequence": 2,
+            "stop_id": "L27N",
+            "arrival_time": 1758993165,
+            "departure_time": 1758993180
+          },
+          {
+            "stop_sequence": 3,
+            "stop_id": "L26N",
+            "arrival_time": 1758993255,
+            "departure_time": 1758993270
+          },
+          {
+            "stop_sequence": 4,
+            "stop_id": "L25N",
+            "arrival_time": 1758993345,
+            "departure_time": 1758993360
+          },
+          {
+            "stop_sequence": 5,
+            "stop_id": "L24N",
+            "arrival_time": 1758993435,
+            "departure_time": 1758993450
+          },
+          {
+            "stop_sequence": 6,
+            "stop_id": "L22N",
+            "arrival_time": 1758993615,
+            "departure_time": 1758993630
+          },
+          {
+            "stop_sequence": 7,
+            "stop_id": "L21N",
+            "arrival_time": 1758993675,
+            "departure_time": 1758993690
+          },
+          {
+            "stop_sequence": 8,
+            "stop_id": "L20N",
+            "arrival_time": 1758993765,
+            "departure_time": 1758993780
+          },
+          {
+            "stop_sequence": 9,
+            "stop_id": "L19N",
+            "arrival_time": 1758993915,
+            "departure_time": 1758993930
+          },
+          {
+            "stop_sequence": 10,
+            "stop_id": "L17N",
+            "arrival_time": 1758994005,
+            "departure_time": 1758994020
+          },
+          {
+            "stop_sequence": 11,
+            "stop_id": "L16N",
+            "arrival_time": 1758994095,
+            "departure_time": 1758994110
+          },
+          {
+            "stop_sequence": 12,
+            "stop_id": "L15N",
+            "arrival_time": 1758994185,
+            "departure_time": 1758994200
+          },
+          {
+            "stop_sequence": 13,
+            "stop_id": "L14N",
+            "arrival_time": 1758994305,
+            "departure_time": 1758994320
+          },
+          {
+            "stop_sequence": 14,
+            "stop_id": "L13N",
+            "arrival_time": 1758994425,
+            "departure_time": 1758994440
+          },
+          {
+            "stop_sequence": 15,
+            "stop_id": "L12N",
+            "arrival_time": 1758994485,
+            "departure_time": 1758994500
+          },
+          {
+            "stop_sequence": 16,
+            "stop_id": "L11N",
+            "arrival_time": 1758994575,
+            "departure_time": 1758994590
+          },
+          {
+            "stop_sequence": 17,
+            "stop_id": "L10N",
+            "arrival_time": 1758994635,
+            "departure_time": 1758994650
+          },
+          {
+            "stop_sequence": 18,
+            "stop_id": "L08N",
+            "arrival_time": 1758994725,
+            "departure_time": 1758994740
+          },
+          {
+            "stop_sequence": 19,
+            "stop_id": "L06N",
+            "arrival_time": 1758994965,
+            "departure_time": 1758994980
+          },
+          {
+            "stop_sequence": 20,
+            "stop_id": "L05N",
+            "arrival_time": 1758995025,
+            "departure_time": 1758995040
+          },
+          {
+            "stop_sequence": 21,
+            "stop_id": "L03N",
+            "arrival_time": 1758995115,
+            "departure_time": 1758995130
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L02N",
+            "arrival_time": 1758995205,
+            "departure_time": 1758995220
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L01N",
+            "arrival_time": 1758995355,
+            "departure_time": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "44",
+      "trip_update": {
+        "trip_id": "079000_L..S",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 0,
+            "stop_id": "L01S",
+            "arrival_time": null,
+            "departure_time": 1758993000
+          },
+          {
+            "stop_sequence": 1,
+            "stop_id": "L02S",
+            "arrival_time": 1758993075,
+            "departure_time": 1758993090
+          },
+          {
+            "stop_sequence": 2,
+            "stop_id": "L03S",
+            "arrival_time": 1758993165,
+            "departure_time": 1758993180
+          },
+          {
+            "stop_sequence": 3,
+            "stop_id": "L05S",
+            "arrival_time": 1758993225,
+            "departure_time": 1758993240
+          },
+          {
+            "stop_sequence": 4,
+            "stop_id": "L06S",
+            "arrival_time": 1758993285,
+            "departure_time": 1758993300
+          },
+          {
+            "stop_sequence": 5,
+            "stop_id": "L08S",
+            "arrival_time": 1758993525,
+            "departure_time": 1758993540
+          },
+          {
+            "stop_sequence": 6,
+            "stop_id": "L10S",
+            "arrival_time": 1758993645,
+            "departure_time": 1758993660
+          },
+          {
+            "stop_sequence": 7,
+            "stop_id": "L11S",
+            "arrival_time": 1758993705,
+            "departure_time": 1758993720
+          },
+          {
+            "stop_sequence": 8,
+            "stop_id": "L12S",
+            "arrival_time": 1758993795,
+            "departure_time": 1758993810
+          },
+          {
+            "stop_sequence": 9,
+            "stop_id": "L13S",
+            "arrival_time": 1758993855,
+            "departure_time": 1758993870
+          },
+          {
+            "stop_sequence": 10,
+            "stop_id": "L14S",
+            "arrival_time": 1758993975,
+            "departure_time": 1758993990
+          },
+          {
+            "stop_sequence": 11,
+            "stop_id": "L15S",
+            "arrival_time": 1758994095,
+            "departure_time": 1758994110
+          },
+          {
+            "stop_sequence": 12,
+            "stop_id": "L16S",
+            "arrival_time": 1758994185,
+            "departure_time": 1758994200
+          },
+          {
+            "stop_sequence": 13,
+            "stop_id": "L17S",
+            "arrival_time": 1758994275,
+            "departure_time": 1758994290
+          },
+          {
+            "stop_sequence": 14,
+            "stop_id": "L19S",
+            "arrival_time": 1758994365,
+            "departure_time": 1758994380
+          },
+          {
+            "stop_sequence": 15,
+            "stop_id": "L20S",
+            "arrival_time": 1758994515,
+            "departure_time": 1758994530
+          },
+          {
+            "stop_sequence": 16,
+            "stop_id": "L21S",
+            "arrival_time": 1758994605,
+            "departure_time": 1758994620
+          },
+          {
+            "stop_sequence": 17,
+            "stop_id": "L22S",
+            "arrival_time": 1758994665,
+            "departure_time": 1758994680
+          },
+          {
+            "stop_sequence": 18,
+            "stop_id": "L24S",
+            "arrival_time": 1758994755,
+            "departure_time": 1758994770
+          },
+          {
+            "stop_sequence": 19,
+            "stop_id": "L25S",
+            "arrival_time": 1758994845,
+            "departure_time": 1758994860
+          },
+          {
+            "stop_sequence": 20,
+            "stop_id": "L26S",
+            "arrival_time": 1758994905,
+            "departure_time": 1758994920
+          },
+          {
+            "stop_sequence": 21,
+            "stop_id": "L27S",
+            "arrival_time": 1758994995,
+            "departure_time": 1758995010
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L28S",
+            "arrival_time": 1758995115,
+            "departure_time": 1758995130
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L29S",
+            "arrival_time": 1758995175,
+            "departure_time": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "45",
+      "trip_update": {
+        "trip_id": "079300_L..N",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 0,
+            "stop_id": "L29N",
+            "arrival_time": null,
+            "departure_time": 1758993180
+          },
+          {
+            "stop_sequence": 1,
+            "stop_id": "L28N",
+            "arrival_time": 1758993255,
+            "departure_time": 1758993270
+          },
+          {
+            "stop_sequence": 2,
+            "stop_id": "L27N",
+            "arrival_time": 1758993405,
+            "departure_time": 1758993420
+          },
+          {
+            "stop_sequence": 3,
+            "stop_id": "L26N",
+            "arrival_time": 1758993495,
+            "departure_time": 1758993510
+          },
+          {
+            "stop_sequence": 4,
+            "stop_id": "L25N",
+            "arrival_time": 1758993585,
+            "departure_time": 1758993600
+          },
+          {
+            "stop_sequence": 5,
+            "stop_id": "L24N",
+            "arrival_time": 1758993675,
+            "departure_time": 1758993690
+          },
+          {
+            "stop_sequence": 6,
+            "stop_id": "L22N",
+            "arrival_time": 1758993855,
+            "departure_time": 1758993870
+          },
+          {
+            "stop_sequence": 7,
+            "stop_id": "L21N",
+            "arrival_time": 1758993915,
+            "departure_time": 1758993930
+          },
+          {
+            "stop_sequence": 8,
+            "stop_id": "L20N",
+            "arrival_time": 1758994005,
+            "departure_time": 1758994020
+          },
+          {
+            "stop_sequence": 9,
+            "stop_id": "L19N",
+            "arrival_time": 1758994155,
+            "departure_time": 1758994170
+          },
+          {
+            "stop_sequence": 10,
+            "stop_id": "L17N",
+            "arrival_time": 1758994245,
+            "departure_time": 1758994260
+          },
+          {
+            "stop_sequence": 11,
+            "stop_id": "L16N",
+            "arrival_time": 1758994335,
+            "departure_time": 1758994350
+          },
+          {
+            "stop_sequence": 12,
+            "stop_id": "L15N",
+            "arrival_time": 1758994425,
+            "departure_time": 1758994440
+          },
+          {
+            "stop_sequence": 13,
+            "stop_id": "L14N",
+            "arrival_time": 1758994545,
+            "departure_time": 1758994560
+          },
+          {
+            "stop_sequence": 14,
+            "stop_id": "L13N",
+            "arrival_time": 1758994665,
+            "departure_time": 1758994680
+          },
+          {
+            "stop_sequence": 15,
+            "stop_id": "L12N",
+            "arrival_time": 1758994725,
+            "departure_time": 1758994740
+          },
+          {
+            "stop_sequence": 16,
+            "stop_id": "L11N",
+            "arrival_time": 1758994815,
+            "departure_time": 1758994830
+          },
+          {
+            "stop_sequence": 17,
+            "stop_id": "L10N",
+            "arrival_time": 1758994875,
+            "departure_time": 1758994890
+          },
+          {
+            "stop_sequence": 18,
+            "stop_id": "L08N",
+            "arrival_time": 1758994965,
+            "departure_time": 1758994980
+          },
+          {
+            "stop_sequence": 19,
+            "stop_id": "L06N",
+            "arrival_time": 1758995205,
+            "departure_time": 1758995220
+          },
+          {
+            "stop_sequence": 20,
+            "stop_id": "L05N",
+            "arrival_time": 1758995265,
+            "departure_time": 1758995280
+          },
+          {
+            "stop_sequence": 21,
+            "stop_id": "L03N",
+            "arrival_time": 1758995355,
+            "departure_time": 1758995370
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L02N",
+            "arrival_time": 1758995445,
+            "departure_time": 1758995460
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L01N",
+            "arrival_time": 1758995595,
+            "departure_time": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "46",
+      "trip_update": {
+        "trip_id": "079400_L..S",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 0,
+            "stop_id": "L01S",
+            "arrival_time": null,
+            "departure_time": 1758993240
+          },
+          {
+            "stop_sequence": 1,
+            "stop_id": "L02S",
+            "arrival_time": 1758993315,
+            "departure_time": 1758993330
+          },
+          {
+            "stop_sequence": 2,
+            "stop_id": "L03S",
+            "arrival_time": 1758993405,
+            "departure_time": 1758993420
+          },
+          {
+            "stop_sequence": 3,
+            "stop_id": "L05S",
+            "arrival_time": 1758993465,
+            "departure_time": 1758993480
+          },
+          {
+            "stop_sequence": 4,
+            "stop_id": "L06S",
+            "arrival_time": 1758993525,
+            "departure_time": 1758993540
+          },
+          {
+            "stop_sequence": 5,
+            "stop_id": "L08S",
+            "arrival_time": 1758993765,
+            "departure_time": 1758993780
+          },
+          {
+            "stop_sequence": 6,
+            "stop_id": "L10S",
+            "arrival_time": 1758993885,
+            "departure_time": 1758993900
+          },
+          {
+            "stop_sequence": 7,
+            "stop_id": "L11S",
+            "arrival_time": 1758993945,
+            "departure_time": 1758993960
+          },
+          {
+            "stop_sequence": 8,
+            "stop_id": "L12S",
+            "arrival_time": 1758994035,
+            "departure_time": 1758994050
+          },
+          {
+            "stop_sequence": 9,
+            "stop_id": "L13S",
+            "arrival_time": 1758994095,
+            "departure_time": 1758994110
+          },
+          {
+            "stop_sequence": 10,
+            "stop_id": "L14S",
+            "arrival_time": 1758994215,
+            "departure_time": 1758994230
+          },
+          {
+            "stop_sequence": 11,
+            "stop_id": "L15S",
+            "arrival_time": 1758994335,
+            "departure_time": 1758994350
+          },
+          {
+            "stop_sequence": 12,
+            "stop_id": "L16S",
+            "arrival_time": 1758994425,
+            "departure_time": 1758994440
+          },
+          {
+            "stop_sequence": 13,
+            "stop_id": "L17S",
+            "arrival_time": 1758994515,
+            "departure_time": 1758994530
+          },
+          {
+            "stop_sequence": 14,
+            "stop_id": "L19S",
+            "arrival_time": 1758994605,
+            "departure_time": 1758994620
+          },
+          {
+            "stop_sequence": 15,
+            "stop_id": "L20S",
+            "arrival_time": 1758994755,
+            "departure_time": 1758994770
+          },
+          {
+            "stop_sequence": 16,
+            "stop_id": "L21S",
+            "arrival_time": 1758994845,
+            "departure_time": 1758994860
+          },
+          {
+            "stop_sequence": 17,
+            "stop_id": "L22S",
+            "arrival_time": 1758994905,
+            "departure_time": 1758994920
+          },
+          {
+            "stop_sequence": 18,
+            "stop_id": "L24S",
+            "arrival_time": 1758994995,
+            "departure_time": 1758995010
+          },
+          {
+            "stop_sequence": 19,
+            "stop_id": "L25S",
+            "arrival_time": 1758995085,
+            "departure_time": 1758995100
+          },
+          {
+            "stop_sequence": 20,
+            "stop_id": "L26S",
+            "arrival_time": 1758995145,
+            "departure_time": 1758995160
+          },
+          {
+            "stop_sequence": 21,
+            "stop_id": "L27S",
+            "arrival_time": 1758995235,
+            "departure_time": 1758995250
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L28S",
+            "arrival_time": 1758995355,
+            "departure_time": 1758995370
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L29S",
+            "arrival_time": 1758995415,
+            "departure_time": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "47",
+      "trip_update": {
+        "trip_id": "079700_L..N",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 0,
+            "stop_id": "L29N",
+            "arrival_time": null,
+            "departure_time": 1758993420
+          },
+          {
+            "stop_sequence": 1,
+            "stop_id": "L28N",
+            "arrival_time": 1758993495,
+            "departure_time": 1758993510
+          },
+          {
+            "stop_sequence": 2,
+            "stop_id": "L27N",
+            "arrival_time": 1758993645,
+            "departure_time": 1758993660
+          },
+          {
+            "stop_sequence": 3,
+            "stop_id": "L26N",
+            "arrival_time": 1758993735,
+            "departure_time": 1758993750
+          },
+          {
+            "stop_sequence": 4,
+            "stop_id": "L25N",
+            "arrival_time": 1758993825,
+            "departure_time": 1758993840
+          },
+          {
+            "stop_sequence": 5,
+            "stop_id": "L24N",
+            "arrival_time": 1758993915,
+            "departure_time": 1758993930
+          },
+          {
+            "stop_sequence": 6,
+            "stop_id": "L22N",
+            "arrival_time": 1758994095,
+            "departure_time": 1758994110
+          },
+          {
+            "stop_sequence": 7,
+            "stop_id": "L21N",
+            "arrival_time": 1758994155,
+            "departure_time": 1758994170
+          },
+          {
+            "stop_sequence": 8,
+            "stop_id": "L20N",
+            "arrival_time": 1758994245,
+            "departure_time": 1758994260
+          },
+          {
+            "stop_sequence": 9,
+            "stop_id": "L19N",
+            "arrival_time": 1758994395,
+            "departure_time": 1758994410
+          },
+          {
+            "stop_sequence": 10,
+            "stop_id": "L17N",
+            "arrival_time": 1758994485,
+            "departure_time": 1758994500
+          },
+          {
+            "stop_sequence": 11,
+            "stop_id": "L16N",
+            "arrival_time": 1758994575,
+            "departure_time": 1758994590
+          },
+          {
+            "stop_sequence": 12,
+            "stop_id": "L15N",
+            "arrival_time": 1758994665,
+            "departure_time": 1758994680
+          },
+          {
+            "stop_sequence": 13,
+            "stop_id": "L14N",
+            "arrival_time": 1758994785,
+            "departure_time": 1758994800
+          },
+          {
+            "stop_sequence": 14,
+            "stop_id": "L13N",
+            "arrival_time": 1758994905,
+            "departure_time": 1758994920
+          },
+          {
+            "stop_sequence": 15,
+            "stop_id": "L12N",
+            "arrival_time": 1758994965,
+            "departure_time": 1758994980
+          },
+          {
+            "stop_sequence": 16,
+            "stop_id": "L11N",
+            "arrival_time": 1758995055,
+            "departure_time": 1758995070
+          },
+          {
+            "stop_sequence": 17,
+            "stop_id": "L10N",
+            "arrival_time": 1758995115,
+            "departure_time": 1758995130
+          },
+          {
+            "stop_sequence": 18,
+            "stop_id": "L08N",
+            "arrival_time": 1758995205,
+            "departure_time": 1758995220
+          },
+          {
+            "stop_sequence": 19,
+            "stop_id": "L06N",
+            "arrival_time": 1758995445,
+            "departure_time": 1758995460
+          },
+          {
+            "stop_sequence": 20,
+            "stop_id": "L05N",
+            "arrival_time": 1758995505,
+            "departure_time": 1758995520
+          },
+          {
+            "stop_sequence": 21,
+            "stop_id": "L03N",
+            "arrival_time": 1758995595,
+            "departure_time": 1758995610
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L02N",
+            "arrival_time": 1758995685,
+            "departure_time": 1758995700
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L01N",
+            "arrival_time": 1758995835,
+            "departure_time": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "48",
+      "trip_update": {
+        "trip_id": "079800_L..S",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 0,
+            "stop_id": "L01S",
+            "arrival_time": null,
+            "departure_time": 1758993480
+          },
+          {
+            "stop_sequence": 1,
+            "stop_id": "L02S",
+            "arrival_time": 1758993555,
+            "departure_time": 1758993570
+          },
+          {
+            "stop_sequence": 2,
+            "stop_id": "L03S",
+            "arrival_time": 1758993645,
+            "departure_time": 1758993660
+          },
+          {
+            "stop_sequence": 3,
+            "stop_id": "L05S",
+            "arrival_time": 1758993705,
+            "departure_time": 1758993720
+          },
+          {
+            "stop_sequence": 4,
+            "stop_id": "L06S",
+            "arrival_time": 1758993765,
+            "departure_time": 1758993780
+          },
+          {
+            "stop_sequence": 5,
+            "stop_id": "L08S",
+            "arrival_time": 1758994005,
+            "departure_time": 1758994020
+          },
+          {
+            "stop_sequence": 6,
+            "stop_id": "L10S",
+            "arrival_time": 1758994125,
+            "departure_time": 1758994140
+          },
+          {
+            "stop_sequence": 7,
+            "stop_id": "L11S",
+            "arrival_time": 1758994185,
+            "departure_time": 1758994200
+          },
+          {
+            "stop_sequence": 8,
+            "stop_id": "L12S",
+            "arrival_time": 1758994275,
+            "departure_time": 1758994290
+          },
+          {
+            "stop_sequence": 9,
+            "stop_id": "L13S",
+            "arrival_time": 1758994335,
+            "departure_time": 1758994350
+          },
+          {
+            "stop_sequence": 10,
+            "stop_id": "L14S",
+            "arrival_time": 1758994455,
+            "departure_time": 1758994470
+          },
+          {
+            "stop_sequence": 11,
+            "stop_id": "L15S",
+            "arrival_time": 1758994575,
+            "departure_time": 1758994590
+          },
+          {
+            "stop_sequence": 12,
+            "stop_id": "L16S",
+            "arrival_time": 1758994665,
+            "departure_time": 1758994680
+          },
+          {
+            "stop_sequence": 13,
+            "stop_id": "L17S",
+            "arrival_time": 1758994755,
+            "departure_time": 1758994770
+          },
+          {
+            "stop_sequence": 14,
+            "stop_id": "L19S",
+            "arrival_time": 1758994845,
+            "departure_time": 1758994860
+          },
+          {
+            "stop_sequence": 15,
+            "stop_id": "L20S",
+            "arrival_time": 1758994995,
+            "departure_time": 1758995010
+          },
+          {
+            "stop_sequence": 16,
+            "stop_id": "L21S",
+            "arrival_time": 1758995085,
+            "departure_time": 1758995100
+          },
+          {
+            "stop_sequence": 17,
+            "stop_id": "L22S",
+            "arrival_time": 1758995145,
+            "departure_time": 1758995160
+          },
+          {
+            "stop_sequence": 18,
+            "stop_id": "L24S",
+            "arrival_time": 1758995235,
+            "departure_time": 1758995250
+          },
+          {
+            "stop_sequence": 19,
+            "stop_id": "L25S",
+            "arrival_time": 1758995325,
+            "departure_time": 1758995340
+          },
+          {
+            "stop_sequence": 20,
+            "stop_id": "L26S",
+            "arrival_time": 1758995385,
+            "departure_time": 1758995400
+          },
+          {
+            "stop_sequence": 21,
+            "stop_id": "L27S",
+            "arrival_time": 1758995475,
+            "departure_time": 1758995490
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L28S",
+            "arrival_time": 1758995595,
+            "departure_time": 1758995610
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L29S",
+            "arrival_time": 1758995655,
+            "departure_time": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "49",
+      "trip_update": {
+        "trip_id": "080100_L..N",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 0,
+            "stop_id": "L29N",
+            "arrival_time": null,
+            "departure_time": 1758993660
+          },
+          {
+            "stop_sequence": 1,
+            "stop_id": "L28N",
+            "arrival_time": 1758993735,
+            "departure_time": 1758993750
+          },
+          {
+            "stop_sequence": 2,
+            "stop_id": "L27N",
+            "arrival_time": 1758993885,
+            "departure_time": 1758993900
+          },
+          {
+            "stop_sequence": 3,
+            "stop_id": "L26N",
+            "arrival_time": 1758993975,
+            "departure_time": 1758993990
+          },
+          {
+            "stop_sequence": 4,
+            "stop_id": "L25N",
+            "arrival_time": 1758994065,
+            "departure_time": 1758994080
+          },
+          {
+            "stop_sequence": 5,
+            "stop_id": "L24N",
+            "arrival_time": 1758994155,
+            "departure_time": 1758994170
+          },
+          {
+            "stop_sequence": 6,
+            "stop_id": "L22N",
+            "arrival_time": 1758994335,
+            "departure_time": 1758994350
+          },
+          {
+            "stop_sequence": 7,
+            "stop_id": "L21N",
+            "arrival_time": 1758994395,
+            "departure_time": 1758994410
+          },
+          {
+            "stop_sequence": 8,
+            "stop_id": "L20N",
+            "arrival_time": 1758994485,
+            "departure_time": 1758994500
+          },
+          {
+            "stop_sequence": 9,
+            "stop_id": "L19N",
+            "arrival_time": 1758994635,
+            "departure_time": 1758994650
+          },
+          {
+            "stop_sequence": 10,
+            "stop_id": "L17N",
+            "arrival_time": 1758994725,
+            "departure_time": 1758994740
+          },
+          {
+            "stop_sequence": 11,
+            "stop_id": "L16N",
+            "arrival_time": 1758994815,
+            "departure_time": 1758994830
+          },
+          {
+            "stop_sequence": 12,
+            "stop_id": "L15N",
+            "arrival_time": 1758994905,
+            "departure_time": 1758994920
+          },
+          {
+            "stop_sequence": 13,
+            "stop_id": "L14N",
+            "arrival_time": 1758995025,
+            "departure_time": 1758995040
+          },
+          {
+            "stop_sequence": 14,
+            "stop_id": "L13N",
+            "arrival_time": 1758995145,
+            "departure_time": 1758995160
+          },
+          {
+            "stop_sequence": 15,
+            "stop_id": "L12N",
+            "arrival_time": 1758995205,
+            "departure_time": 1758995220
+          },
+          {
+            "stop_sequence": 16,
+            "stop_id": "L11N",
+            "arrival_time": 1758995295,
+            "departure_time": 1758995310
+          },
+          {
+            "stop_sequence": 17,
+            "stop_id": "L10N",
+            "arrival_time": 1758995355,
+            "departure_time": 1758995370
+          },
+          {
+            "stop_sequence": 18,
+            "stop_id": "L08N",
+            "arrival_time": 1758995445,
+            "departure_time": 1758995460
+          },
+          {
+            "stop_sequence": 19,
+            "stop_id": "L06N",
+            "arrival_time": 1758995685,
+            "departure_time": 1758995700
+          },
+          {
+            "stop_sequence": 20,
+            "stop_id": "L05N",
+            "arrival_time": 1758995745,
+            "departure_time": 1758995760
+          },
+          {
+            "stop_sequence": 21,
+            "stop_id": "L03N",
+            "arrival_time": 1758995835,
+            "departure_time": 1758995850
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L02N",
+            "arrival_time": 1758995925,
+            "departure_time": 1758995940
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L01N",
+            "arrival_time": 1758996075,
+            "departure_time": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "50",
+      "trip_update": {
+        "trip_id": "080200_L..S",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 0,
+            "stop_id": "L01S",
+            "arrival_time": null,
+            "departure_time": 1758993720
+          },
+          {
+            "stop_sequence": 1,
+            "stop_id": "L02S",
+            "arrival_time": 1758993795,
+            "departure_time": 1758993810
+          },
+          {
+            "stop_sequence": 2,
+            "stop_id": "L03S",
+            "arrival_time": 1758993885,
+            "departure_time": 1758993900
+          },
+          {
+            "stop_sequence": 3,
+            "stop_id": "L05S",
+            "arrival_time": 1758993945,
+            "departure_time": 1758993960
+          },
+          {
+            "stop_sequence": 4,
+            "stop_id": "L06S",
+            "arrival_time": 1758994005,
+            "departure_time": 1758994020
+          },
+          {
+            "stop_sequence": 5,
+            "stop_id": "L08S",
+            "arrival_time": 1758994245,
+            "departure_time": 1758994260
+          },
+          {
+            "stop_sequence": 6,
+            "stop_id": "L10S",
+            "arrival_time": 1758994365,
+            "departure_time": 1758994380
+          },
+          {
+            "stop_sequence": 7,
+            "stop_id": "L11S",
+            "arrival_time": 1758994425,
+            "departure_time": 1758994440
+          },
+          {
+            "stop_sequence": 8,
+            "stop_id": "L12S",
+            "arrival_time": 1758994515,
+            "departure_time": 1758994530
+          },
+          {
+            "stop_sequence": 9,
+            "stop_id": "L13S",
+            "arrival_time": 1758994575,
+            "departure_time": 1758994590
+          },
+          {
+            "stop_sequence": 10,
+            "stop_id": "L14S",
+            "arrival_time": 1758994695,
+            "departure_time": 1758994710
+          },
+          {
+            "stop_sequence": 11,
+            "stop_id": "L15S",
+            "arrival_time": 1758994815,
+            "departure_time": 1758994830
+          },
+          {
+            "stop_sequence": 12,
+            "stop_id": "L16S",
+            "arrival_time": 1758994905,
+            "departure_time": 1758994920
+          },
+          {
+            "stop_sequence": 13,
+            "stop_id": "L17S",
+            "arrival_time": 1758994995,
+            "departure_time": 1758995010
+          },
+          {
+            "stop_sequence": 14,
+            "stop_id": "L19S",
+            "arrival_time": 1758995085,
+            "departure_time": 1758995100
+          },
+          {
+            "stop_sequence": 15,
+            "stop_id": "L20S",
+            "arrival_time": 1758995235,
+            "departure_time": 1758995250
+          },
+          {
+            "stop_sequence": 16,
+            "stop_id": "L21S",
+            "arrival_time": 1758995325,
+            "departure_time": 1758995340
+          },
+          {
+            "stop_sequence": 17,
+            "stop_id": "L22S",
+            "arrival_time": 1758995385,
+            "departure_time": 1758995400
+          },
+          {
+            "stop_sequence": 18,
+            "stop_id": "L24S",
+            "arrival_time": 1758995475,
+            "departure_time": 1758995490
+          },
+          {
+            "stop_sequence": 19,
+            "stop_id": "L25S",
+            "arrival_time": 1758995565,
+            "departure_time": 1758995580
+          },
+          {
+            "stop_sequence": 20,
+            "stop_id": "L26S",
+            "arrival_time": 1758995625,
+            "departure_time": 1758995640
+          },
+          {
+            "stop_sequence": 21,
+            "stop_id": "L27S",
+            "arrival_time": 1758995715,
+            "departure_time": 1758995730
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L28S",
+            "arrival_time": 1758995835,
+            "departure_time": 1758995850
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L29S",
+            "arrival_time": 1758995895,
+            "departure_time": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "51",
+      "trip_update": {
+        "trip_id": "080500_L..N",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 0,
+            "stop_id": "L29N",
+            "arrival_time": null,
+            "departure_time": 1758993900
+          },
+          {
+            "stop_sequence": 1,
+            "stop_id": "L28N",
+            "arrival_time": 1758993975,
+            "departure_time": 1758993990
+          },
+          {
+            "stop_sequence": 2,
+            "stop_id": "L27N",
+            "arrival_time": 1758994125,
+            "departure_time": 1758994140
+          },
+          {
+            "stop_sequence": 3,
+            "stop_id": "L26N",
+            "arrival_time": 1758994215,
+            "departure_time": 1758994230
+          },
+          {
+            "stop_sequence": 4,
+            "stop_id": "L25N",
+            "arrival_time": 1758994305,
+            "departure_time": 1758994320
+          },
+          {
+            "stop_sequence": 5,
+            "stop_id": "L24N",
+            "arrival_time": 1758994395,
+            "departure_time": 1758994410
+          },
+          {
+            "stop_sequence": 6,
+            "stop_id": "L22N",
+            "arrival_time": 1758994575,
+            "departure_time": 1758994590
+          },
+          {
+            "stop_sequence": 7,
+            "stop_id": "L21N",
+            "arrival_time": 1758994635,
+            "departure_time": 1758994650
+          },
+          {
+            "stop_sequence": 8,
+            "stop_id": "L20N",
+            "arrival_time": 1758994725,
+            "departure_time": 1758994740
+          },
+          {
+            "stop_sequence": 9,
+            "stop_id": "L19N",
+            "arrival_time": 1758994875,
+            "departure_time": 1758994890
+          },
+          {
+            "stop_sequence": 10,
+            "stop_id": "L17N",
+            "arrival_time": 1758994965,
+            "departure_time": 1758994980
+          },
+          {
+            "stop_sequence": 11,
+            "stop_id": "L16N",
+            "arrival_time": 1758995055,
+            "departure_time": 1758995070
+          },
+          {
+            "stop_sequence": 12,
+            "stop_id": "L15N",
+            "arrival_time": 1758995145,
+            "departure_time": 1758995160
+          },
+          {
+            "stop_sequence": 13,
+            "stop_id": "L14N",
+            "arrival_time": 1758995265,
+            "departure_time": 1758995280
+          },
+          {
+            "stop_sequence": 14,
+            "stop_id": "L13N",
+            "arrival_time": 1758995385,
+            "departure_time": 1758995400
+          },
+          {
+            "stop_sequence": 15,
+            "stop_id": "L12N",
+            "arrival_time": 1758995445,
+            "departure_time": 1758995460
+          },
+          {
+            "stop_sequence": 16,
+            "stop_id": "L11N",
+            "arrival_time": 1758995535,
+            "departure_time": 1758995550
+          },
+          {
+            "stop_sequence": 17,
+            "stop_id": "L10N",
+            "arrival_time": 1758995595,
+            "departure_time": 1758995610
+          },
+          {
+            "stop_sequence": 18,
+            "stop_id": "L08N",
+            "arrival_time": 1758995685,
+            "departure_time": 1758995700
+          },
+          {
+            "stop_sequence": 19,
+            "stop_id": "L06N",
+            "arrival_time": 1758995925,
+            "departure_time": 1758995940
+          },
+          {
+            "stop_sequence": 20,
+            "stop_id": "L05N",
+            "arrival_time": 1758995985,
+            "departure_time": 1758996000
+          },
+          {
+            "stop_sequence": 21,
+            "stop_id": "L03N",
+            "arrival_time": 1758996075,
+            "departure_time": 1758996090
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L02N",
+            "arrival_time": 1758996165,
+            "departure_time": 1758996180
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L01N",
+            "arrival_time": 1758996315,
+            "departure_time": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "52",
+      "trip_update": {
+        "trip_id": "080600_L..S",
+        "route_id": "L",
+        "start_time": null,
+        "start_date": "20250927",
+        "schedule_relationship": 0,
+        "stop_time_updates": [
+          {
+            "stop_sequence": 0,
+            "stop_id": "L01S",
+            "arrival_time": null,
+            "departure_time": 1758993960
+          },
+          {
+            "stop_sequence": 1,
+            "stop_id": "L02S",
+            "arrival_time": 1758994035,
+            "departure_time": 1758994050
+          },
+          {
+            "stop_sequence": 2,
+            "stop_id": "L03S",
+            "arrival_time": 1758994125,
+            "departure_time": 1758994140
+          },
+          {
+            "stop_sequence": 3,
+            "stop_id": "L05S",
+            "arrival_time": 1758994185,
+            "departure_time": 1758994200
+          },
+          {
+            "stop_sequence": 4,
+            "stop_id": "L06S",
+            "arrival_time": 1758994245,
+            "departure_time": 1758994260
+          },
+          {
+            "stop_sequence": 5,
+            "stop_id": "L08S",
+            "arrival_time": 1758994485,
+            "departure_time": 1758994500
+          },
+          {
+            "stop_sequence": 6,
+            "stop_id": "L10S",
+            "arrival_time": 1758994605,
+            "departure_time": 1758994620
+          },
+          {
+            "stop_sequence": 7,
+            "stop_id": "L11S",
+            "arrival_time": 1758994665,
+            "departure_time": 1758994680
+          },
+          {
+            "stop_sequence": 8,
+            "stop_id": "L12S",
+            "arrival_time": 1758994755,
+            "departure_time": 1758994770
+          },
+          {
+            "stop_sequence": 9,
+            "stop_id": "L13S",
+            "arrival_time": 1758994815,
+            "departure_time": 1758994830
+          },
+          {
+            "stop_sequence": 10,
+            "stop_id": "L14S",
+            "arrival_time": 1758994935,
+            "departure_time": 1758994950
+          },
+          {
+            "stop_sequence": 11,
+            "stop_id": "L15S",
+            "arrival_time": 1758995055,
+            "departure_time": 1758995070
+          },
+          {
+            "stop_sequence": 12,
+            "stop_id": "L16S",
+            "arrival_time": 1758995145,
+            "departure_time": 1758995160
+          },
+          {
+            "stop_sequence": 13,
+            "stop_id": "L17S",
+            "arrival_time": 1758995235,
+            "departure_time": 1758995250
+          },
+          {
+            "stop_sequence": 14,
+            "stop_id": "L19S",
+            "arrival_time": 1758995325,
+            "departure_time": 1758995340
+          },
+          {
+            "stop_sequence": 15,
+            "stop_id": "L20S",
+            "arrival_time": 1758995475,
+            "departure_time": 1758995490
+          },
+          {
+            "stop_sequence": 16,
+            "stop_id": "L21S",
+            "arrival_time": 1758995565,
+            "departure_time": 1758995580
+          },
+          {
+            "stop_sequence": 17,
+            "stop_id": "L22S",
+            "arrival_time": 1758995625,
+            "departure_time": 1758995640
+          },
+          {
+            "stop_sequence": 18,
+            "stop_id": "L24S",
+            "arrival_time": 1758995715,
+            "departure_time": 1758995730
+          },
+          {
+            "stop_sequence": 19,
+            "stop_id": "L25S",
+            "arrival_time": 1758995805,
+            "departure_time": 1758995820
+          },
+          {
+            "stop_sequence": 20,
+            "stop_id": "L26S",
+            "arrival_time": 1758995865,
+            "departure_time": 1758995880
+          },
+          {
+            "stop_sequence": 21,
+            "stop_id": "L27S",
+            "arrival_time": 1758995955,
+            "departure_time": 1758995970
+          },
+          {
+            "stop_sequence": 22,
+            "stop_id": "L28S",
+            "arrival_time": 1758996075,
+            "departure_time": 1758996090
+          },
+          {
+            "stop_sequence": 23,
+            "stop_id": "L29S",
+            "arrival_time": 1758996135,
+            "departure_time": null
+          }
+        ]
+      }
+    }
+  ]
+}
